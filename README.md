@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png#gh-dark-mode-only">
 </p>
 
-<a href="https://deploy.stitch.tech/supabase"><img src="https://img.shields.io/badge/deploy_with-Stitch-%23E369F7?logo=amazonaws&color=%23E369F7" alt="Deploy to aws using Stitch"></a>    
+<a href="https://deploy.stitch.tech/stitch/supabase"><img src="https://img.shields.io/badge/deploy_with-Stitch-%23E369F7?logo=amazonaws&color=%23E369F7" alt="Deploy to aws using Stitch"></a>    
 # Supabase
 
 [Supabase](https://supabase.com) is an open source Firebase alternative. We're building the features of Firebase using enterprise-grade open source tools.
